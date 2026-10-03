@@ -33,7 +33,7 @@ export const brand = {
   // Youngstown OH target) — only the address pair may go in a PostalAddress.
   addressCity: "Freeport",
   addressState: "FL",
-  streetAddress: "101 Hydrangea",
+  streetAddress: "101 Hydrangea Blvd",
   postalCode: "32439",
   lat: "30.4982516",
   lng: "-86.1360517",

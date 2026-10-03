@@ -40,7 +40,7 @@ You can reach us by:
 
 - **Phone:** (337) 344-1248
 - **Email:** veteranspcusa@gmail.com
-- **Mail:** 101 Hydrangea, Freeport, FL 32439
+- **Mail:** 101 Hydrangea Blvd, Freeport, FL 32439
 
 When you contact us, it helps to describe the specific page or element where you experienced the difficulty and the assistive technology or browser you were using. That detail lets us reproduce and resolve the problem more quickly.
 

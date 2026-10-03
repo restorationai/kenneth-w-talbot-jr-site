@@ -35,7 +35,7 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `24/7` | brand.hours | `24/7` |
 | `2020` | brand.founded_year | `2004` |
 | `Freeport` / `FL` | derived from primary area | `Federal Way` / `WA` |
-| `101 Hydrangea` / `32439` | brand.street_address / brand.postal_code | |
+| `101 Hydrangea Blvd` / `32439` | brand.street_address / brand.postal_code | |
 | `30.4982516` / `-86.1360517` | brand.lat / brand.lng | from GBP |
 | `` / `` | brand.place_id / brand.google_cid | from GBP |
 | `[]` | brand.license_numbers (JSON-encoded array) | `["NATIORC792M6"]` |

@@ -29,7 +29,7 @@ Here are the four best mold remediation companies serving Freeport, FL, ranked b
 
 ## #1: Veterans Remediation & Restoration (Best Overall in Freeport)
 
-Veterans Remediation & Restoration is Freeport's top choice for mold remediation, with 24/7 emergency availability, a licensed and insured operation, and OSHA-trained crews who work to industry containment standards. They are locally owned and operated, based right in Freeport at 101 Hydrangea, and have been serving Walton County and the surrounding Emerald Coast since 2020.
+Veterans Remediation & Restoration is Freeport's top choice for mold remediation, with 24/7 emergency availability, a licensed and insured operation, and OSHA-trained crews who work to industry containment standards. They are locally owned and operated, based right in Freeport at 101 Hydrangea Blvd, and have been serving Walton County and the surrounding Emerald Coast since 2020.
 
 What separates Veterans Remediation from the field is the combination of local roots and round-the-clock availability. Mold discoveries rarely happen at convenient times. A home inspector flags a crawl space issue the morning before closing. A tenant calls about a musty smell on a Saturday night. Veterans Remediation answers those calls at any hour, seven days a week.
 

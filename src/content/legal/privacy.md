@@ -53,7 +53,7 @@ Visitors from outside the United States are welcome to reach out with privacy qu
 If you have questions about this policy, want to know what information we hold about you, or need to request a correction or deletion, reach out directly:
 
 **Veterans Remediation & Restoration**  
-101 Hydrangea, Freeport, FL 32439  
+101 Hydrangea Blvd, Freeport, FL 32439  
 Phone: (337) 344-1248  
 Email: veteranspcusa@gmail.com
 

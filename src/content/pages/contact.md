@@ -27,4 +27,4 @@ If you're planning ahead, a mold inspection before listing a property, help lini
 
 ## Where we're located
 
-Veterans Remediation & Restoration is based at **101 Hydrangea, Freeport, FL 32439**, in Walton County. From here we serve communities throughout the Florida Panhandle, including Niceville, Destin, Fort Walton Beach, DeFuniak Springs, Panama City, and the surrounding coastal and inland areas. The Gulf Coast's humidity, storm surge exposure, and the region's mix of older wood-frame homes and newer construction all create specific remediation challenges, and it's the environment we work in every day.
+Veterans Remediation & Restoration is based at **101 Hydrangea Blvd, Freeport, FL 32439**, in Walton County. From here we serve communities throughout the Florida Panhandle, including Niceville, Destin, Fort Walton Beach, DeFuniak Springs, Panama City, and the surrounding coastal and inland areas. The Gulf Coast's humidity, storm surge exposure, and the region's mix of older wood-frame homes and newer construction all create specific remediation challenges, and it's the environment we work in every day.
