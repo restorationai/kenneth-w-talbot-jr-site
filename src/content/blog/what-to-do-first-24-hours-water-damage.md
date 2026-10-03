@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does mold start growing after water damage?", "a
 published_at: "2026-08-30"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 The first 24 hours after water damage are the most consequential ones. Stop the water source, get people and pets out of standing water, document everything with your phone, and begin moving air through the space. What you do, and don't do, in the next few hours determines whether you're dealing with a drying job or a mold remediation project weeks from now.
 

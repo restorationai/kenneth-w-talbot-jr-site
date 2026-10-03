@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover mold that grew after a water
 published_at: "2026-08-16"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 Whether homeowners insurance covers water damage depends almost entirely on *how* the water got in. Sudden, accidental damage, a pipe that bursts overnight, a washing machine supply line that fails, is typically covered under a standard HO-3 policy. Gradual damage, a slow drip under the sink that's been there for months, a roof that's been missing shingles since last hurricane season, usually is not. And flooding from outside your home, whether from storm surge, an overflowing river, or heavy rain sheeting across the yard, is almost never covered without a separate flood policy. That's the short answer. Here's how to apply it to your specific situation.
 

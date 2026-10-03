@@ -16,6 +16,7 @@ faq: [{"question": "Can I use any restoration company I want, or does my insuran
 published_at: "2026-08-25"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 Choosing the wrong restoration company after a water loss, fire, or mold discovery can cost you more than the damage itself, in delays, denied insurance claims, and work that has to be redone. The short answer: vet the company before you sign anything. Check their certifications, confirm they carry their own insurance, ask how they document the loss, and never let urgency, yours or theirs, rush you past those basics. The rest of this guide walks you through exactly how to do that, even when you're stressed and the clock is ticking.
 

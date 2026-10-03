@@ -17,6 +17,7 @@ faq: [{"question": "Can I just paint over a water stain on my ceiling?", "answer
 published_at: "2026-10-02"
 services: ["water-damage-restoration", "storm-damage-restoration"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 **TL;DR:** A single, dry, light-tan stain on ceiling drywall can often be sealed with a stain-blocking primer and repainted. A ceiling that's sagging, soft to the touch, still reads wet on a moisture meter, or keeps restaining after it's been painted needs the drywall opened, the cavity dried or replaced, and a mold check before anyone paints over it. The difference matters because painting over a wet cavity just hides the problem until it becomes a bigger one.
 

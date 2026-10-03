@@ -17,6 +17,7 @@ faq: [{"question": "How much does mold remediation cost in Florida?", "answer": 
 published_at: "2026-09-22"
 services: []
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 **TL;DR:** Mold remediation in Florida typically costs $1,500 to $6,000 for most residential jobs. Small, contained areas run $500 to $1,500. Larger infestations covering multiple rooms or structural materials can reach $10,000 or more. The biggest cost drivers are the square footage affected, the type of material involved (drywall vs. wood framing vs. HVAC), and how long the moisture source went unaddressed. Every job is different, and a written scope before work begins is the only reliable way to know your actual number.
 

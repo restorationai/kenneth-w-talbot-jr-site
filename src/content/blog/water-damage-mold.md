@@ -17,6 +17,7 @@ faq: [{"question": "How long does it take for mold to grow after water damage?",
 published_at: "2026-09-24"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 **TL;DR:** Mold can begin growing on wet building materials within 24 to 48 hours of water damage. In Santa Rosa Beach and along the Gulf Coast, where indoor relative humidity regularly exceeds 70%, that window shrinks further. The only reliable way to stop mold after water damage is to dry the structure completely, fast, using professional-grade equipment. If your home or rental property took on water, you have less than two days before mold becomes a separate, more expensive problem.
 

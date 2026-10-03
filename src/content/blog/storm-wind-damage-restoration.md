@@ -17,6 +17,7 @@ faq: [{"question": "How soon after a storm should I call a restoration company i
 published_at: "2026-09-20"
 services: []
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 **TL;DR:** After a storm hits Crestview, FL, your first moves are documenting damage with photos, stopping active water intrusion with temporary tarps or board-up, and calling a licensed restoration company before starting any repairs. Most homeowners insurance policies cover sudden wind and storm damage. A restoration crew handles emergency stabilization, water extraction, structural drying, and the documentation your adjuster needs to approve the claim.
 

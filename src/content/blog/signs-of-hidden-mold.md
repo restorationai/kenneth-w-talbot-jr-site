@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-08-20"
 services: ["mold-remediation"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 Hidden mold doesn't always announce itself with a visible black patch on the wall. More often, it grows behind drywall, under flooring, inside HVAC ducts, or beneath bathroom tile, places you'd never think to look until something feels off. The seven warning signs below are the ones worth taking seriously, because mold can colonize a damp surface within 24 to 48 hours of a moisture event, and the longer it goes undetected, the deeper into building materials it spreads.
 

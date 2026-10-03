@@ -17,6 +17,7 @@ faq: [{"question": "How long does fire and smoke restoration take in DeFuniak Sp
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 **TL;DR:** Fire and smoke restoration in DeFuniak Springs involves four overlapping phases: emergency stabilization, soot and smoke removal, structural drying (fires trigger water damage from suppression), and odor elimination. Most homeowners insurance covers all four phases for sudden fire losses. The process typically takes 2 to 6 weeks depending on how much of the structure burned and how deep smoke penetrated. Acting within the first 24 to 48 hours limits secondary damage significantly.
 

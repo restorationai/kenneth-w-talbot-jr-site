@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take to get results back from a DIY mold te
 published_at: "2026-08-20"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 If you suspect mold in your home, you have two realistic options: a DIY test kit from the hardware store or a professional inspection. The short answer is that DIY kits can confirm mold is *present* somewhere in your home, but they can't tell you where it's growing, how much of it there is, or whether the species poses a health risk. A professional inspection does all three. For most situations beyond a small, visible patch on a tile grout line, a professional assessment gives you information you can actually act on.
 

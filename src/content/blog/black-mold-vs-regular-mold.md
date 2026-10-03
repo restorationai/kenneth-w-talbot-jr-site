@@ -16,6 +16,7 @@ faq: [{"question": "Can a home test kit tell me if I have toxic black mold?", "a
 published_at: "2026-08-20"
 services: ["mold-remediation"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 Most mold you find in a home is not the toxic black mold you've heard about, but that doesn't mean it's harmless, and it doesn't mean the two are always easy to tell apart. The short answer: color alone cannot reliably identify *Stachybotrys chartarum* (the mold commonly called "black mold"). Accurate identification requires lab testing. What you *can* do at home is look at a combination of color, texture, location, and smell to decide how urgently you need to act, and whether you're dealing with a surface nuisance or something that calls for professional remediation.
 

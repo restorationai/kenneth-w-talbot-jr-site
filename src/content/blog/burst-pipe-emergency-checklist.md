@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve if I've never look
 published_at: "2026-08-18"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 When a pipe bursts, the first 10 minutes matter more than anything that follows. Shut off the main water supply valve, cut power to any rooms with standing water at the breaker panel, and start documenting with your phone camera before you touch anything else. Everything after that, drying, repairs, insurance claims, depends on how well you handle those first few steps. This checklist walks you through the full response, from the moment you hear the rush of water to the point where your home is dry and structurally sound again.
 

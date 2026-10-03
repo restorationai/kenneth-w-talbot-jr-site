@@ -16,6 +16,7 @@ faq: [{"question": "How long does smoke smell last after a fire, and will it go 
 published_at: "2026-08-27"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 Fire damage rarely stops at the burn marks. By the time the flames are out and the fire department clears the scene, a second wave of damage is already spreading, smoke is settling into wall cavities, soot is etching surfaces, and water from suppression hoses is soaking into subfloors. Understanding what happens next, and in what order, can help you protect your home, work more effectively with your insurance carrier, and avoid decisions that make the recovery longer and more expensive.
 

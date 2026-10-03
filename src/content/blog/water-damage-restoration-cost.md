@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Florida?", "a
 published_at: "2026-09-30"
 services: ["water-damage-restoration", "water-cleanup"]
 rendered: true
+author: "Kenneth W Talbot Jr."
 ---
 **TL;DR:** Water damage restoration in Florida typically costs between $1,200 and $8,500 for a single-room leak, and $10,000 or more for a multi-room or Category 3 flood. The biggest cost drivers are the water category (clean, gray, or black water), how many square feet are affected, how many days of equipment the drying takes, and whether flooring or drywall has to come out. Most homeowners insurance policies cover sudden, accidental water damage, though the final bill depends heavily on how fast the water is extracted.
 
