@@ -102,7 +102,7 @@ Key criteria:
 - **Experience with insurance documentation**: the company should know how to produce an Xactimate-compatible estimate
 - **No pressure to sign an assignment of benefits**: you retain control of your claim
 
-Veterans Remediation & Restoration is a veteran-owned, locally operated company serving Crestview and the surrounding Okaloosa County area, including Niceville, Valparaiso, and Eglin AFB. The team is available 24/7, licensed and insured, and handles storm damage restoration from emergency tarping through structural drying and full claim documentation. Request a storm damage assessment by calling [(337) 344-1248](tel:3373441248).
+Veterans Remediation & Restoration is a veteran-owned, locally operated company serving Crestview and the surrounding Okaloosa County area, including Niceville, Valparaiso, and Eglin AFB. The team is available 24/7, licensed and insured, and handles [storm damage restoration](/services/storm-damage-restoration/) from emergency tarping through structural drying and full claim documentation. Request a storm damage assessment by calling [(337) 344-1248](tel:3373441248).
 
 ---
 

@@ -70,4 +70,4 @@ Once the house is safe, the claim is open, and the water is moving in the right 
 
 **About Veterans Remediation & Restoration**
 
-Veterans Remediation & Restoration is a veteran-owned, locally operated restoration company based in Freeport, FL, serving Walton County and the surrounding Emerald Coast since 2020. The team is OSHA trained and operates on a 24/7 line for storm, water, fire, and mold calls, with written scopes provided before work begins.
+Veterans Remediation & Restoration is a veteran-owned, locally operated restoration company based in Freeport, FL, serving Walton County and the surrounding Emerald Coast since 2020. The team is OSHA trained and operates on a 24/7 line for [storm](/services/storm-damage-restoration/), [water](/services/water-damage-restoration/), fire, and mold calls, with written scopes provided before work begins.

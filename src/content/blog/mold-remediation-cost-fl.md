@@ -92,7 +92,7 @@ Stop the moisture source first. If the mold is tied to an active leak, a failed 
 
 Then get a written assessment from a licensed remediation contractor before any work begins. A reputable company will not pressure you to skip the assessment or start work without a documented scope. If you are filing an insurance claim, notify your insurer before demolition starts.
 
-For mold remediation in Freeport and across Walton County and the surrounding Emerald Coast area, Veterans Remediation & Restoration is available 24/7 at (337) 344-1248. The team is OSHA trained, licensed, and insured, and provides written scopes before work begins so you know exactly what you're paying for.
+For [mold remediation](/services/mold-remediation/) in Freeport and across Walton County and the surrounding Emerald Coast area, Veterans Remediation & Restoration is available 24/7 at (337) 344-1248. The team is OSHA trained, licensed, and insured, and provides written scopes before work begins so you know exactly what you're paying for.
 
 ---
 

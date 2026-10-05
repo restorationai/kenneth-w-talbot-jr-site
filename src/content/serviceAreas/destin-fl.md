@@ -19,7 +19,7 @@ state: "FL"
 primary: false
 rendered: true
 ---
-Veterans Remediation & Restoration responds to water damage, mold, fire, and biohazard emergencies for homeowners and property managers throughout Destin around the clock. Operating out of Freeport, we reach Destin quickly via US-98, and our IICRC-certified crews bring the drying equipment, containment materials, and documentation your insurance carrier needs, so you are not managing the chaos alone.
+Veterans Remediation & Restoration responds to water damage, mold, fire, and biohazard emergencies for homeowners and property managers throughout Destin around the clock. Operating out of Freeport, we reach Destin quickly via US-98, and our crews bring the drying equipment, containment materials, and documentation your insurance carrier needs, so you are not managing the chaos alone.
 
 ## Restoration emergencies common in Destin
 

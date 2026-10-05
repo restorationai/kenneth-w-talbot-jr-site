@@ -92,4 +92,4 @@ Veterans Remediation & Restoration serves DeFuniak Springs and the surrounding W
 
 **About Veterans Remediation & Restoration**
 
-Veterans Remediation & Restoration is a veteran-owned, licensed, and insured restoration company serving DeFuniak Springs, Freeport, Destin, Fort Walton Beach, and the broader Florida Panhandle since 2020. Their OSHA-trained crews handle fire damage restoration, water damage restoration, mold remediation, and storm damage restoration. They operate 24/7 and provide written scopes of work to support homeowners through the insurance claims process.
+Veterans Remediation & Restoration is a veteran-owned, licensed, and insured restoration company serving DeFuniak Springs, Freeport, Destin, Fort Walton Beach, and the broader Florida Panhandle since 2020. Their OSHA-trained crews handle [fire damage restoration](/services/fire-damage-restoration/), water damage restoration, mold remediation, and storm damage restoration. They operate 24/7 and provide written scopes of work to support homeowners through the insurance claims process.
