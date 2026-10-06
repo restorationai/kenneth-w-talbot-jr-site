@@ -56,7 +56,7 @@ export const brand = {
   certifications: ["OSHA Trained"] as string[],
   trustBadges: ["Veteran Owned & Operated", "Licensed Mold Assessor", "Licensed Mold Remediator", "Licensed & Insured", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://veteransremediation.com/"] as string[],
+  sameAsUrls: ["https://veteransremediation.com/", "https://www.bbb.org/us/fl/freeport/profile/water-damage-restoration/veterans-remediation-restoration-0683-90108177"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "",
