@@ -51,7 +51,7 @@ For a deeper look at what hidden mold looks like before it becomes visible, see 
 
 Yes, you can stop mold after water damage, but the strategy and the outcome depend heavily on how quickly drying begins and how thoroughly it is completed. Speed and completeness are the two variables that matter most.
 
-**If drying begins within 24 hours**, and the structure is brought to dry standard (materials at or below their equilibrium moisture content, typically measured with a calibrated moisture meter), mold colonization can often be prevented entirely. The [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS520) defines the drying protocols and documentation requirements that professional crews follow to demonstrate a structure has been returned to a dry condition.
+**If drying begins within 24 hours**, and the structure is brought to dry standard (materials at or below their equilibrium moisture content, typically measured with a calibrated moisture meter), mold colonization can often be prevented entirely. The [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/) defines the drying protocols and documentation requirements that professional crews follow to demonstrate a structure has been returned to a dry condition.
 
 **If drying is delayed or incomplete**, mold remediation becomes a separate scope of work from water damage restoration. That means containment, removal of affected materials, HEPA vacuuming, antimicrobial treatment, and post-remediation verification testing. It is more expensive and more disruptive than getting the drying right the first time.
 

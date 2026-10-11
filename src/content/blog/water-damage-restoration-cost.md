@@ -29,7 +29,7 @@ Most Florida homeowners pay between $1,200 and $8,500 for a typical single-room 
 
 A small, quickly caught leak that stays contained to one bathroom or closet, and involves clean (Category 1) water, sits at the low end. A flooded first floor with Category 2 or 3 water, saturated flooring, and drywall that has to be cut out and replaced sits at the high end. Square footage affected is the single biggest multiplier: a 150 square foot bathroom and a 900 square foot open-concept living area are not the same job, even if the water source looks identical.
 
-The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) is the industry reference restoration crews use to classify water damage and set drying protocols, and it's a big part of why pricing isn't a flat rate: the category and class of the loss dictate the equipment, PPE, and drying time required, and all three cost money.
+The [IICRC S500 standard](https://iicrc.org/s500/) is the industry reference restoration crews use to classify water damage and set drying protocols, and it's a big part of why pricing isn't a flat rate: the category and class of the loss dictate the equipment, PPE, and drying time required, and all three cost money.
 
 ## What Drives Water Damage Restoration Pricing?
 

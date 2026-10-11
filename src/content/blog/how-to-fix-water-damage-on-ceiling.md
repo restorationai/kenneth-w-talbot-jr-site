@@ -54,7 +54,7 @@ For cosmetic repairs: clean any residue, let the area fully dry, apply a stain-b
 For anything beyond cosmetic, the process looks more like this:
 
 1. **Confirm the moisture level** with a penetrating or pinless moisture meter, not a guess. Drywall should read close to its dry standard before anyone paints or patches.
-2. **Set up drying equipment** (air movers and a dehumidifier) if the cavity is still damp, following the drying principles laid out in the [IICRC S500 water damage restoration standard](https://www.iicrc.org/page/IICRCS500).
+2. **Set up drying equipment** (air movers and a dehumidifier) if the cavity is still damp, following the drying principles laid out in the [IICRC S500 water damage restoration standard](https://iicrc.org/s500/).
 3. **Cut out damaged drywall** to sound, dry material, typically extending about 12 inches past the visibly affected area since moisture travels further than the stain shows.
 4. **Replace wet insulation** above the cut-out section; wet fiberglass or cellulose loses its R-value and stays a moisture reservoir.
 5. **Patch, prime, and paint** once everything underneath has verified dry.
