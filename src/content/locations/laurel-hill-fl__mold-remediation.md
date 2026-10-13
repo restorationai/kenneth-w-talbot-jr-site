@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Laurel Hill, FL | Veterans Remediation & Restoration "
+title: "Mold Remediation in Laurel Hill, FL | Veterans Remediation & Restoration"
 h1: "Mold Remediation in Laurel Hill"
 meta_description: "24/7 mold remediation in Laurel Hill, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "mold remediation laurel hill"

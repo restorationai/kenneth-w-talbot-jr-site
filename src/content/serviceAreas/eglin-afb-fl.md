@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Eglin AFB, FL | Veterans Remediation & Restoration "
+title: "Restoration Services in Eglin AFB, FL | Veterans Remediation & Restoration"
 h1: "Restoration Services in Eglin AFB"
 meta_description: "Serving Eglin AFB, FL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (337) 344-1248."
 primary_keyword: "restoration services eglin afb"

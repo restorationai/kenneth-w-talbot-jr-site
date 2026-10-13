@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Fire Damage Restoration in Freeport | Veterans Remediation & Restoration "
+title: "24/7 Emergency Fire Damage Restoration in Freeport | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Freeport"
 meta_description: "24/7 emergency fire damage restoration in Freeport and surrounding areas. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "fire damage restoration freeport"

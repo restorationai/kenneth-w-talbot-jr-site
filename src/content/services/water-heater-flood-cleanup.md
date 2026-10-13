@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Water Heater Flood Cleanup in Freeport | Veterans Remediation & Restoration "
+title: "24/7 Emergency Water Heater Flood Cleanup in Freeport | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Water Heater Flood Cleanup in Freeport"
 meta_description: "24/7 emergency water heater flood cleanup in Freeport and surrounding areas. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "water heater flood cleanup freeport"

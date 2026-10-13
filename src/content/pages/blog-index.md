@@ -1,6 +1,6 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | Veterans Remediation & Restoration "
+title: "Restoration Blog | Veterans Remediation & Restoration"
 h1: "Restoration Resources and Insights"
 meta_description: "Guides, checklists, and explainers from Veterans Remediation & Restoration  on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog freeport"

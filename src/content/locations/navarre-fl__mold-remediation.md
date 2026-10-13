@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Navarre, FL | Veterans Remediation & Restoration "
+title: "Mold Remediation in Navarre, FL | Veterans Remediation & Restoration"
 h1: "Mold Remediation in Navarre"
 meta_description: "24/7 mold remediation in Navarre, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "mold remediation navarre"

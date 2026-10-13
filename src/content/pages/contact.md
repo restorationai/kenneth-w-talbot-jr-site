@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
 title: "Contact Veterans Remediation & Restoration  | 24/7 Restoration in Freeport"
-h1: "Contact Veterans Remediation & Restoration "
+h1: "Contact Veterans Remediation & Restoration"
 meta_description: "Call (337) 344-1248 for 24/7 emergency restoration in Freeport and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "veterans remediation & restoration  contact"
 secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]

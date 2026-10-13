@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Water Leak Detection in Freeport | Veterans Remediation & Restoration "
+title: "Water Leak Detection in Freeport | Veterans Remediation & Restoration"
 h1: "Water Leak Detection in Freeport"
 meta_description: "24/7 water leak detection in Freeport and surrounding areas. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "water leak detection freeport"

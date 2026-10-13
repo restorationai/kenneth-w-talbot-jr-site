@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Large Loss and Catastrophic Response in Freeport | Veterans Remediation & Restoration "
+title: "Large Loss and Catastrophic Response in Freeport | Veterans Remediation & Restoration"
 h1: "Large Loss and Catastrophic Response in Freeport"
 meta_description: "24/7 large loss and catastrophic response in Freeport and surrounding areas. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "large loss and catastrophic response freeport"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Vernon, FL | Veterans Remediation & Restoration "
+title: "24/7 Emergency Fire Damage Restoration in Vernon, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Vernon"
 meta_description: "24/7 emergency fire damage restoration in Vernon, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "fire damage restoration vernon"

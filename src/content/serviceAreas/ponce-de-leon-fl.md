@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Ponce de Leon, FL | Veterans Remediation & Restoration "
+title: "Restoration Services in Ponce de Leon, FL | Veterans Remediation & Restoration"
 h1: "Restoration Services in Ponce de Leon"
 meta_description: "Serving Ponce de Leon, FL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (337) 344-1248."
 primary_keyword: "restoration services ponce de leon"

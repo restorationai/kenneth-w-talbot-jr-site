@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in DeFuniak Springs, FL | Veterans Remediation & Restoration "
+title: "Emergency Fire Damage Restoration in DeFuniak Springs, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in DeFuniak Springs"
 meta_description: "24/7 emergency fire damage restoration in DeFuniak Springs, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "fire damage restoration defuniak springs"

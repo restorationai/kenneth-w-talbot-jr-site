@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Destin, FL | Veterans Remediation & Restoration "
+title: "Restoration Services in Destin, FL | Veterans Remediation & Restoration"
 h1: "Restoration Services in Destin"
 meta_description: "Serving Destin, FL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (337) 344-1248."
 primary_keyword: "restoration services destin"

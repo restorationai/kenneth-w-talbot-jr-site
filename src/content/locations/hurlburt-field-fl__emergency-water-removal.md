@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Hurlburt Field, FL | Veterans Remediation & Restoration "
+title: "24/7 Emergency Water Removal & Cleanup in Hurlburt Field, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Water Removal & Cleanup in Hurlburt Field"
 meta_description: "24/7 emergency water removal and cleanup in Hurlburt Field, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "emergency water removal hurlburt field"

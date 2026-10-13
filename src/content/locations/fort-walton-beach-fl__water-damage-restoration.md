@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Fort Walton Beach, FL | Veterans Remediation & Restoration "
+title: "Emergency Water Damage Restoration in Fort Walton Beach, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Fort Walton Beach"
 meta_description: "24/7 emergency water damage restoration in Fort Walton Beach, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "water damage restoration fort walton beach"

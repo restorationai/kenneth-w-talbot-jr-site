@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Valparaiso, FL | Veterans Remediation & Restoration "
+title: "24/7 Emergency Storm Damage Restoration in Valparaiso, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Valparaiso"
 meta_description: "24/7 emergency storm damage restoration in Valparaiso, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "storm damage restoration valparaiso"

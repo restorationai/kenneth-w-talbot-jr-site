@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Serving All of Freeport, FL | Veterans Remediation & Restoration "
+title: "Serving All of Freeport, FL | Veterans Remediation & Restoration"
 h1: "Serving All of Freeport"
 meta_description: "Veterans Remediation & Restoration  is based in Freeport, FL. See the parts of Freeport we cover and every service we offer here. Call (337) 344-1248."
 primary_keyword: "freeport service area"

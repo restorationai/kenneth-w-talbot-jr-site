@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Destin, FL | Veterans Remediation & Restoration "
+title: "Mold Remediation in Destin, FL | Veterans Remediation & Restoration"
 h1: "Mold Remediation in Destin"
 meta_description: "24/7 mold remediation in Destin, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "mold remediation destin"

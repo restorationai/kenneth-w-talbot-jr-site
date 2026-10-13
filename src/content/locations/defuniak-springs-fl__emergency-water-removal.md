@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Removal & Cleanup in DeFuniak Springs, FL | Veterans Remediation & Restoration "
+title: "Emergency Water Removal & Cleanup in DeFuniak Springs, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Water Removal & Cleanup in DeFuniak Springs"
 meta_description: "24/7 emergency water removal and cleanup in DeFuniak Springs, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "emergency water removal defuniak springs"

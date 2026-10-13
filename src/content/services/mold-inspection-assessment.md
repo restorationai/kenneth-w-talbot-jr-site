@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Mold Inspection & Assessment in Santa Rosa Beach | Veterans Remediation & Restoration "
+title: "Mold Inspection & Assessment in Santa Rosa Beach | Veterans Remediation & Restoration"
 h1: "Mold Inspection & Assessment on 30A & Santa Rosa Beach"
 meta_description: "Mold inspection and assessment in Santa Rosa Beach and along 30A. Licensed Florida Mold Assessor; independent third-party assessors and accredited labs for objective results. Call (337) 344-1248."
 primary_keyword: "mold inspection santa rosa beach"

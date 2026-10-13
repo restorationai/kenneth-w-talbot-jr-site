@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Navarre, FL | Veterans Remediation & Restoration "
+title: "Restoration Services in Navarre, FL | Veterans Remediation & Restoration"
 h1: "Restoration Services in Navarre"
 meta_description: "Serving Navarre, FL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (337) 344-1248."
 primary_keyword: "restoration services navarre"

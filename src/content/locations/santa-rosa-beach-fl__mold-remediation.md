@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Santa Rosa Beach, FL | Veterans Remediation & Restoration "
+title: "Mold Remediation in Santa Rosa Beach, FL | Veterans Remediation & Restoration"
 h1: "Mold Remediation in Santa Rosa Beach"
 meta_description: "24/7 mold remediation in Santa Rosa Beach, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "mold remediation santa rosa beach"

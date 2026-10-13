@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Santa Rosa Beach, FL | Veterans Remediation & Restoration "
+title: "Emergency Fire Damage Restoration in Santa Rosa Beach, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Santa Rosa Beach"
 meta_description: "24/7 emergency fire damage restoration in Santa Rosa Beach, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "fire damage restoration santa rosa beach"

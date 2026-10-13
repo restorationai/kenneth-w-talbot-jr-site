@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Panama City Beach, FL | Veterans Remediation & Restoration "
+title: "Emergency Water Damage Restoration in Panama City Beach, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Panama City Beach"
 meta_description: "24/7 emergency water damage restoration in Panama City Beach, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "water damage restoration panama city beach"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Ebro, FL | Veterans Remediation & Restoration "
+title: "Restoration Services in Ebro, FL | Veterans Remediation & Restoration"
 h1: "Restoration Services in Ebro"
 meta_description: "Serving Ebro, FL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (337) 344-1248."
 primary_keyword: "restoration services ebro"

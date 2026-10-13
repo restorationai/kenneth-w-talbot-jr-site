@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Hurlburt Field, FL | Veterans Remediation & Restoration "
+title: "Mold Remediation in Hurlburt Field, FL | Veterans Remediation & Restoration"
 h1: "Mold Remediation in Hurlburt Field"
 meta_description: "24/7 mold remediation in Hurlburt Field, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "mold remediation hurlburt field"

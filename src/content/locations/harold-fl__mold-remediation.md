@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Harold, FL | Veterans Remediation & Restoration "
+title: "Mold Remediation in Harold, FL | Veterans Remediation & Restoration"
 h1: "Mold Remediation in Harold"
 meta_description: "24/7 mold remediation in Harold, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "mold remediation harold"

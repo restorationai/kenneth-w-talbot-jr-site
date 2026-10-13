@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Miramar Beach, FL | Veterans Remediation & Restoration "
+title: "24/7 Emergency Fire Damage Restoration in Miramar Beach, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Miramar Beach"
 meta_description: "24/7 emergency fire damage restoration in Miramar Beach, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "fire damage restoration miramar beach"

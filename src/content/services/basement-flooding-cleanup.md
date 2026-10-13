@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Basement Flooding Cleanup in Freeport | Veterans Remediation & Restoration "
+title: "24/7 Emergency Basement Flooding Cleanup in Freeport | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Freeport"
 meta_description: "24/7 emergency basement flooding cleanup in Freeport and surrounding areas. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "basement flooding cleanup freeport"

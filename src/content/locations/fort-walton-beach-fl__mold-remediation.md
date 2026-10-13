@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Fort Walton Beach, FL | Veterans Remediation & Restoration "
+title: "Mold Remediation in Fort Walton Beach, FL | Veterans Remediation & Restoration"
 h1: "Mold Remediation in Fort Walton Beach"
 meta_description: "24/7 mold remediation in Fort Walton Beach, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "mold remediation fort walton beach"

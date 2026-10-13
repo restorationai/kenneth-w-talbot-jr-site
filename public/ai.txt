@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://veteransremediation.com/
-# Maintainer: Veterans Remediation & Restoration 
+# Maintainer: Veterans Remediation & Restoration
 # Contact: veteranspcusa@gmail.com
 # Sitemap: https://veteransremediation.com/sitemap-index.xml
 # LLM index: https://veteransremediation.com/llms.txt

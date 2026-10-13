@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Panama City Beach, FL | Veterans Remediation & Restoration "
+title: "Emergency Storm Damage Restoration in Panama City Beach, FL | Veterans Remediation & Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Panama City Beach"
 meta_description: "24/7 emergency storm damage restoration in Panama City Beach, FL. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "storm damage restoration panama city beach"

@@ -1,7 +1,7 @@
 ---
 archetype: "about"
 title: "About Veterans Remediation & Restoration  | Freeport Restoration Company"
-h1: "About Veterans Remediation & Restoration "
+h1: "About Veterans Remediation & Restoration"
 meta_description: "Veteran-owned restoration serving Santa Rosa Beach, the 30A corridor, and Freeport since 2020. Florida Licensed Mold Assessor and Remediator. Meet our team."
 primary_keyword: "veterans remediation & restoration  freeport"
 secondary_keywords: ["local restoration company", "veteran owned restoration", "licensed mold assessor freeport"]

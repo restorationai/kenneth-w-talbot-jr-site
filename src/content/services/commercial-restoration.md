@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Commercial Restoration in Freeport | Veterans Remediation & Restoration "
+title: "Commercial Restoration in Freeport | Veterans Remediation & Restoration"
 h1: "Commercial Restoration in Freeport"
 meta_description: "24/7 commercial restoration in Freeport and surrounding areas. Insurance billing accepted. Call (337) 344-1248."
 primary_keyword: "commercial restoration freeport"

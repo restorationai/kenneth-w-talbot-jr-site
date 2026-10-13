@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Freeport | Veterans Remediation & Restoration "
+title: "Restoration Services in Freeport | Veterans Remediation & Restoration"
 h1: "Our Restoration Services"
 meta_description: "Restoration in Freeport and along 30A: water, fire, mold, and storm damage restoration, plus demolition and tear-out. 24/7 response. Call (337) 344-1248."
 primary_keyword: "restoration services freeport"
