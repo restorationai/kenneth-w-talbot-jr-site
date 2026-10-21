@@ -1,1 +1,18 @@
-{}
+{
+  "emergency-water-removal": [
+    "Standing Water Removal"
+  ],
+  "smoke-damage-restoration": [
+    "Soot Removal"
+  ],
+  "storm-damage-restoration": [
+    "Hurricane Damage Restoration"
+  ],
+  "water-damage-restoration": [
+    "Water Mitigation",
+    "Wet Carpet Drying"
+  ],
+  "water-heater-flood-cleanup": [
+    "Flood Cleanup"
+  ]
+}
