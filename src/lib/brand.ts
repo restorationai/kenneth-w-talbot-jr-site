@@ -59,9 +59,16 @@ export const brand = {
   sameAsUrls: ["https://veteransremediation.com/", "https://www.facebook.com/61592469216690/", "https://www.bbb.org/us/fl/freeport/profile/water-damage-restoration/veterans-remediation-restoration-0683-90108177", "https://www.houzz.com/hznb/professionals/environmental-services-and-restoration/veterans-remediation-and-restoration-pfvwus-pf~1423217997", "https://homeguide.com/fl/panama-city/water-damage-restoration/veterans-remediation---restoration---24-7-mold-remediation--water-and-fire-damage-restoration-i0H5l0Dsx"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
-  gbpRatingValue: "",
-  gbpReviewCount: "",
-  gbpReviews: [] as { author: string; rating: number; text: string; when: string }[],
+  gbpRatingValue: "5.0",
+  gbpReviewCount: "7",
+  gbpReviews: [
+    { author: "Mallorie", rating: 5, text: "Most hard working and God loving family out there!!", when: "October 2026" },
+    { author: "Edward", rating: 5, text: "Fantastic trustworthy Christian based organization. Kenny communicates every step of the way above and beyond expectations. I Highly recommend this locally owned company.", when: "October 2026" },
+    { author: "Melissa", rating: 5, text: "Highly recommend Veterans Mold Remediation! They were professional, knowledgeable, and great to work with from start to finish. The team was responsive, thorough, and took the time to explain everything throughout the process. Their attention to detail and commitment to doing the job right really…", when: "October 2026" },
+    { author: "Jacob", rating: 5, text: "Very profesional and nice people!", when: "October 2026" },
+    { author: "Mike", rating: 5, text: "Professional service second to none!", when: "October 2026" },
+    { author: "Brian", rating: 5, text: "⭐⭐⭐⭐⭐ Exceptional Service, Professionalism, and Integrity! Veterans Remediation & Restoration sets the standard for professionalism, integrity, and exceptional customer service! It is refreshing to find a company that understands the importance of doing things right, treating people with respect…", when: "October 2026" },
+  ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Freeport, FL.",
   ctaLabel: "24/7 Emergency Line",
   // Vertical trade-identity copy — resolved at scaffold time from
