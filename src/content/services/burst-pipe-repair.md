@@ -23,14 +23,14 @@ A burst pipe rarely announces itself politely. It's a bulge in the ceiling drywa
 
 ## What burst pipe cleanup and repair actually involves
 
-This service covers two distinct problems that have to be solved together: stopping and repairing the physical pipe failure, and removing the water that already escaped before it causes secondary damage. The plumbing side means isolating the broken section, cutting out failed copper, galvanized, or PEX, and reconnecting with code-compliant fittings. The water damage side means extraction, moisture mapping, and structural drying, because water that migrated into wall cavities, subfloor, or insulation won't dry on its own in Florida's humidity. A straightforward single-room break is often resolved in a few days. A break that ran unnoticed overnight behind a wall or under cabinetry can take longer, since hidden cavities need to be opened, dried, and monitored before they're closed back up.
+This service covers two distinct problems that have to be solved together: stopping and repairing the physical pipe failure, and removing the water that already escaped before it causes secondary damage. The plumbing side, isolating the broken section and replacing the failed copper, galvanized, or PEX with code-compliant fittings, is done by the licensed plumber we partner with. The water damage side means extraction, moisture mapping, and structural drying, because water that migrated into wall cavities, subfloor, or insulation won't dry on its own in Florida's humidity. A straightforward single-room break is often resolved in a few days. A break that ran unnoticed overnight behind a wall or under cabinetry can take longer, since hidden cavities need to be opened, dried, and monitored before they're closed back up.
 
 ## Our process
 
 1. **Locate and isolate the break.** We confirm where the pipe failed, shut off the affected line (or the main if the break is upstream of a shutoff), and stop active water flow before anything else happens.
 2. **Extract standing water and assess the spread.** Pumps and extraction equipment remove visible water first, then we use moisture meters to trace how far the water traveled under flooring, behind baseboards, and inside wall cavities.
 3. **Open and dry affected cavities.** Wet drywall, insulation, and subfloor are removed or dried in place depending on material and saturation level, with air movers and dehumidifiers placed to pull moisture out of the structure, not just the surface.
-4. **Repair or replace the failed pipe section.** The damaged segment is cut out and repaired to current plumbing code, with pressure testing before the line goes back into service.
+4. **Repair or replace the failed pipe section.** Our licensed plumbing partner cuts out the damaged segment and repairs it to current plumbing code, with pressure testing before the line goes back into service.
 5. **Monitor moisture to dry standard and close out.** We track drying progress with daily or periodic moisture readings until materials read dry, not just dry to the touch, before any rebuild work starts.
 
 ## What separates a good burst pipe response from a bad one
