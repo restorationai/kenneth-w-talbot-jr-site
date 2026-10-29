@@ -60,14 +60,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "9",
+  gbpReviewCount: "10",
   gbpReviews: [
+    { author: "Spencer", rating: 5, text: "Fantastic work and even better service!! Customer value is truly a priority.", when: "October 2026" },
     { author: "Michael", rating: 5, text: "Prompt and great communication.", when: "October 2026" },
     { author: "Mallorie", rating: 5, text: "Most hard working and God loving family out there!!", when: "October 2026" },
     { author: "Edward", rating: 5, text: "Fantastic trustworthy Christian based organization. Kenny communicates every step of the way above and beyond expectations. I Highly recommend this locally owned company.", when: "October 2026" },
     { author: "Melissa", rating: 5, text: "Highly recommend Veterans Mold Remediation! They were professional, knowledgeable, and great to work with from start to finish. The team was responsive, thorough, and took the time to explain everything throughout the process. Their attention to detail and commitment to doing the job right really…", when: "October 2026" },
     { author: "Jacob", rating: 5, text: "Very profesional and nice people!", when: "October 2026" },
-    { author: "Mike", rating: 5, text: "Professional service second to none!", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Freeport, FL.",
   ctaLabel: "24/7 Emergency Line",
