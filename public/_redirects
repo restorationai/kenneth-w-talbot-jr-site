@@ -198,3 +198,6 @@
 /service-areas/westville-fl/reconstruction/ /services/ 301
 /service-areas/wright-fl/reconstruction /services/ 301
 /service-areas/wright-fl/reconstruction/ /services/ 301
+# client request 2026-10-29 (Kenny: "We do not offer leak detection"): water leak detection page removed
+/services/water-leak-detection /services/water-damage-restoration/ 301
+/services/water-leak-detection/ /services/water-damage-restoration/ 301
