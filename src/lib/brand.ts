@@ -60,14 +60,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "10",
+  gbpReviewCount: "16",
   gbpReviews: [
+    { author: "Dara", rating: 5, text: "We had a wonderful experience after our bathroom had a leak resulting in mold and needed to be renovated and repaired. The team was quick to respond and help us in a stressful situation. They are honest and transparent. They walked us through the process and the communication was great. Our…", when: "November 2026" },
+    { author: "Jacob", rating: 5, text: "Kenny is amazing. Great experience with a Christian brother. He will take care of whatever is needed. You won’t be disappointed.", when: "November 2026" },
+    { author: "Jamie", rating: 5, text: "The are absolutely the best people. We trust them to handle everything that is needed. You won’t be disappointed.", when: "November 2026" },
+    { author: "Christy", rating: 5, text: "These Guys are top-tier! Veteran owned and operated…. Highly recommend you will not be disappointed!! FIVE STARS!! ✨✨✨✨✨", when: "October 2026" },
+    { author: "Brandon", rating: 5, text: "Kenny is great to work with. A+++", when: "October 2026" },
     { author: "Spencer", rating: 5, text: "Fantastic work and even better service!! Customer value is truly a priority.", when: "October 2026" },
-    { author: "Michael", rating: 5, text: "Prompt and great communication.", when: "October 2026" },
-    { author: "Mallorie", rating: 5, text: "Most hard working and God loving family out there!!", when: "October 2026" },
-    { author: "Edward", rating: 5, text: "Fantastic trustworthy Christian based organization. Kenny communicates every step of the way above and beyond expectations. I Highly recommend this locally owned company.", when: "October 2026" },
-    { author: "Melissa", rating: 5, text: "Highly recommend Veterans Mold Remediation! They were professional, knowledgeable, and great to work with from start to finish. The team was responsive, thorough, and took the time to explain everything throughout the process. Their attention to detail and commitment to doing the job right really…", when: "October 2026" },
-    { author: "Jacob", rating: 5, text: "Very profesional and nice people!", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Freeport, FL.",
   ctaLabel: "24/7 Emergency Line",
