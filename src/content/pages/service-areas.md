@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Veterans Remediation & Restoration  Restoration"
+title: "Service Areas | Veterans Remediation & Restoration"
 h1: "Areas We Serve"
 meta_description: "Veterans Remediation & Restoration  provides 24/7 restoration services across Freeport and the surrounding region. Find your city."
 primary_keyword: "veterans remediation & restoration  service areas"
