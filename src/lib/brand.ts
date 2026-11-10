@@ -60,7 +60,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "16",
+  gbpReviewCount: "17",
   gbpReviews: [
     { author: "Dara", rating: 5, text: "We had a wonderful experience after our bathroom had a leak resulting in mold and needed to be renovated and repaired. The team was quick to respond and help us in a stressful situation. They are honest and transparent. They walked us through the process and the communication was great. Our…", when: "November 2026" },
     { author: "Jacob", rating: 5, text: "Kenny is amazing. Great experience with a Christian brother. He will take care of whatever is needed. You won’t be disappointed.", when: "November 2026" },
