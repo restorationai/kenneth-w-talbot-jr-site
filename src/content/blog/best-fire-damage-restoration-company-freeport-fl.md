@@ -53,10 +53,10 @@ None of this means these companies are good or bad choices. It means a homeowner
 | Company | Local or National | 24/7 Emergency | Licensed & Insured (attested) |
 |---|---|---|---|
 | Veterans Remediation & Restoration | Local, veteran-owned, founded 2020 | Yes | Yes, FL DBPR mold assessor/remediator |
-| SERVPRO of Destin/Seaside/Freeport | National franchise, local ownership | N/A | N/A |
-| Truvorne | N/A | N/A | N/A |
-| Dry Drs | N/A | N/A | N/A |
-| Ready Restoration | N/A | N/A | N/A |
+| SERVPRO of Destin/Seaside/Freeport | National franchise, local ownership | Not listed | Not listed |
+| Truvorne | Not listed | Not listed | Not listed |
+| Dry Drs | Not listed | Not listed | Not listed |
+| Ready Restoration | Not listed | Not listed | Not listed |
 
 N/A entries mean the figure isn't something we can verify publicly, not that the company lacks it. Ask directly when you call.
 

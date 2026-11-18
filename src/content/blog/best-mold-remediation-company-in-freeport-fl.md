@@ -92,10 +92,10 @@ Veritas is an established local restoration company operating in the Freeport ar
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Veterans Remediation & Restoration | Contact for details | Contact for details | Yes | - |
-| SERVPRO of Destin, Seaside, Freeport | 4.9 | 42 | - | - |
-| Truvorne | 4.8 | 73 | - | - |
-| Veritas | 4.3 | 11 | - | - |
+| Veterans Remediation & Restoration | 5.0 | 17 | Yes | Not listed |
+| SERVPRO of Destin, Seaside, Freeport | 4.9 | 42 | Not listed | Not listed |
+| Truvorne | 4.8 | 73 | Not listed | Not listed |
+| Veritas | 4.3 | 11 | Not listed | Not listed |
 
 *24/7 and certification data for competitors is not independently verified and is shown as unknown rather than assumed.*
 
