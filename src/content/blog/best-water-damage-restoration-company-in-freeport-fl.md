@@ -52,7 +52,7 @@ Truvorne is a water damage restoration service located at 15167 US-331 BUS A in 
 
 | Company | Google Rating | Reviews | 24/7 Emergency |
 | --- | --- | --- | --- |
-| Veterans Remediation & Restoration | 5.0 | 17 | Yes |
+| Veterans Remediation & Restoration | 5.0 | 18 | Yes |
 | Veritas | 4.3 | 11 | Not listed |
 | SERVPRO of Destin, Seaside, Freeport | 4.9 | 43 | Not listed |
 | Truvorne | 4.8 | 79 | Not listed |
