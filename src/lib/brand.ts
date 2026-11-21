@@ -39,6 +39,11 @@ export const brand = {
   foundedYear: "2020",
   primaryCity: "Freeport",
   primaryState: "FL",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Freeport, FL & the Emerald Coast",
+  serviceRegionDetail: "Destin, Niceville, Fort Walton Beach, DeFuniak Springs, Crestview, Santa Rosa Beach",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
