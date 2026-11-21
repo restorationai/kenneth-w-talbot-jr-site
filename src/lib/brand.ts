@@ -7,6 +7,10 @@ export const brand = {
   displayName: "Veterans Remediation & Restoration",
   // Registered DBA / trade name (backfilled by rename_site_sync.py on old scaffolds).
   dbaName: "Veterans Remediation & Restoration - 24/7 Mold Remediation, Water and Fire Damage Restoration",
+  // Brand name as text beside the header logo (Santino 2026-11-21): set
+  // ONLY by the rename flow (header_name_rollout.py) from the Citations
+  // Building stage on. false = logo only.
+  headerName: true,
   shortName: "Veterans Remediation & Restoration",
   legalName: "Veterans Remediation & Restoration",
   domain: "veteransremediation.com",
