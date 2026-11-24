@@ -40,7 +40,7 @@ The honest answer is that most homeowners can't tell these companies apart from 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | FL Mold License |
 |---|---|---|---|---|
-| Veterans Remediation & Restoration | 5.0 | 18 | Yes | Yes (Assessor & Remediator) |
+| Veterans Remediation & Restoration | 5.0 | 19 | Yes | Yes (Assessor & Remediator) |
 | SERVPRO of Destin/Seaside/Freeport | Not listed | Not listed | Not listed | Not listed |
 | Truvorne | Not listed | Not listed | Not listed | Not listed |
 | Honest Restoration | Not listed | Not listed | Not listed | Not listed |
