@@ -74,6 +74,8 @@ export const brand = {
   trustBadges: ["Veteran Owned & Operated", "Licensed Mold Assessor", "Licensed Mold Remediator", "Licensed & Insured", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://veteransremediation.com/", "https://www.facebook.com/61592469216690/", "https://maps.google.com/maps?cid=4562054351657057730", "https://www.bbb.org/us/fl/freeport/profile/water-damage-restoration/veterans-remediation-restoration-0683-90108177", "https://www.houzz.com/hznb/professionals/environmental-services-and-restoration/veterans-remediation-and-restoration-pfvwus-pf~1423217997", "https://homeguide.com/fl/panama-city/water-damage-restoration/veterans-remediation---restoration---24-7-mold-remediation--water-and-fire-damage-restoration-i0H5l0Dsx"] as string[],
+  credentials: [{"name": "Contractor License", "kind": "license", "number": "MRSR5711", "authority": "Florida Department of Business & Professional Regulation (DBPR)", "state": "FL", "holder": "company"}, {"name": "OSHA Trained", "kind": "certification", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "Licensed in FL (#MRSR5711)"}, {"text": "OSHA Trained"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
