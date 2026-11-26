@@ -19,13 +19,13 @@ Veterans Remediation & Restoration started in 2020 with a straightforward premis
 
 ## About Us
 
-Veterans Remediation is built on more than 25 years of experience in occupational safety and health, industrial hygiene, and emergency response. Our founder began his military career in the United States Air Force as a Bioenvironmental Engineer, specializing in CBRNE hazards—chemical, biological, radiological, nuclear, and explosive threats—and advancing to the rank of Staff Sergeant.
+Veterans Remediation is built on more than 25 years of experience in occupational safety and health, industrial hygiene, and emergency response. Our founder began his military career in the United States Air Force as a Bioenvironmental Engineer, specializing in CBRNE hazards (chemical, biological, radiological, nuclear, and explosive threats) and advancing to the rank of Staff Sergeant.
 
 He later received a commission in the United States Coast Guard, serving as a Marine Safety Officer, Industrial Hygienist, and Counterterrorism Officer. Across his military and professional career, he developed experience in air sampling, hazard assessment, first response, and protecting people and property from environmental and workplace risks.
 
 That experience informs the work we do today, including mold and moisture remediation, lead-related hazards, fire and other environmental concerns, and the safety practices that guide each project. We bring a practical, service-minded approach to every job, with a focus on careful work, clear communication, and the well-being of our clients.
 
-Family is at the heart of who we are. My wife and I have been together for 32 years and married for 29. We have four children, two sons-in-law, and three grandchildren. Our military service and family life have taught us the value of responsibility, teamwork, and serving others—values we carry into our work and our community every day.
+Family is at the heart of who we are. My wife and I have been together for 32 years and married for 29. We have four children, two sons-in-law, and three grandchildren. Our military service and family life have taught us the value of responsibility, teamwork, and serving others: values we carry into our work and our community every day.
 
 ## What we do
 

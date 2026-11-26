@@ -61,10 +61,10 @@ Typical costs for storm damage restoration vary significantly based on the size 
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, minor wind-driven rain intrusion | $1,500 – $4,000 |
-| Roof tarp, debris removal, and interior drying (1–2 rooms) | $3,500 – $8,000 |
-| Significant tree impact with framing damage | $8,000 – $20,000 |
-| Whole-roof failure with multi-room water intrusion | $15,000 – $40,000+ |
+| Single room, minor wind-driven rain intrusion | $1,500 to $4,000 |
+| Roof tarp, debris removal, and interior drying (1–2 rooms) | $3,500 to $8,000 |
+| Significant tree impact with framing damage | $8,000 to $20,000 |
+| Whole-roof failure with multi-room water intrusion | $15,000 to $40,000+ |
 
 ## Seasonal and regional considerations
 

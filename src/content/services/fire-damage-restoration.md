@@ -58,12 +58,12 @@ Typical costs vary significantly based on the size of the affected area, the typ
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, contained smoke damage | $3,000 – $8,000 |
-| Kitchen fire with moderate smoke spread | $8,000 – $20,000 |
-| Whole-floor fire with suppression water | $20,000 – $50,000 |
-| Whole-structure loss with structural damage | $50,000 – $150,000+ |
-| Contents pack-out and off-site cleaning | $2,000 – $10,000 |
-| Odor neutralization (thermal fog / ozone) | $500 – $3,000 |
+| Single room, contained smoke damage | $3,000 to $8,000 |
+| Kitchen fire with moderate smoke spread | $8,000 to $20,000 |
+| Whole-floor fire with suppression water | $20,000 to $50,000 |
+| Whole-structure loss with structural damage | $50,000 to $150,000+ |
+| Contents pack-out and off-site cleaning | $2,000 to $10,000 |
+| Odor neutralization (thermal fog / ozone) | $500 to $3,000 |
 
 Homeowners insurance typically covers fire damage restoration, including smoke cleanup, contents restoration, and temporary housing, when the fire is accidental. Coverage limits, deductibles, and exclusions vary by policy, so reviewing your declarations page early in the process matters.
 

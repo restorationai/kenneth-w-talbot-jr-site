@@ -57,11 +57,11 @@ Typical costs for mold remediation vary significantly based on the size of the a
 
 | Scenario | Typical industry range |
 |---|---|
-| Single bathroom, surface mold, tile and grout | $500 – $1,500 |
-| Single room, drywall and insulation removal | $1,500 – $4,000 |
-| Crawl space mold abatement | $2,000 – $6,000 |
-| HVAC system mold contamination | $3,000 – $10,000 |
-| Multi-room or whole-structure remediation | $10,000 – $30,000+ |
+| Single bathroom, surface mold, tile and grout | $500 to $1,500 |
+| Single room, drywall and insulation removal | $1,500 to $4,000 |
+| Crawl space mold abatement | $2,000 to $6,000 |
+| HVAC system mold contamination | $3,000 to $10,000 |
+| Multi-room or whole-structure remediation | $10,000 to $30,000+ |
 
 Every loss is different, and Veterans Remediation & Restoration provides a written scope of work before any remediation begins. Homeowners insurance typically covers mold remediation when the growth is a direct result of a covered peril, a burst pipe, storm intrusion, or appliance failure, but policies vary widely on mold sublimits and exclusions, so reviewing your declarations page before filing is worthwhile.
 

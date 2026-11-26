@@ -56,12 +56,12 @@ Typical costs for water damage restoration vary significantly based on the size 
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, clean water (Cat 1), no flooring removal | $1,200 – $3,500 |
-| Single room, clean water, hardwood or laminate removal | $2,500 – $5,500 |
-| Bathroom overflow, gray water (Cat 2), partial demo | $3,000 – $6,500 |
-| Finished basement, Category 2, full drywall removal | $5,000 – $12,000 |
-| Sewage backup or floodwater (Cat 3), any area | $7,000 – $20,000+ |
-| Crawl space saturation, vapor barrier replacement | $2,000 – $6,000 |
+| Single room, clean water (Cat 1), no flooring removal | $1,200 to $3,500 |
+| Single room, clean water, hardwood or laminate removal | $2,500 to $5,500 |
+| Bathroom overflow, gray water (Cat 2), partial demo | $3,000 to $6,500 |
+| Finished basement, Category 2, full drywall removal | $5,000 to $12,000 |
+| Sewage backup or floodwater (Cat 3), any area | $7,000 to $20,000+ |
+| Crawl space saturation, vapor barrier replacement | $2,000 to $6,000 |
 
 Every loss is different, and Veterans Remediation & Restoration provides a written scope of work before any work begins so you know exactly what is being done and why. Homeowners insurance typically covers sudden and accidental water losses, a burst pipe, appliance failure, or storm-driven intrusion, but generally excludes gradual leaks or maintenance-related damage; your adjuster can confirm what applies to your policy.
 
